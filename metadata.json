@@ -1,0 +1,6 @@
+{
+  "name": "Readora",
+  "description": "Premium online bookstore e-commerce marketplace featuring curated fiction, bestsellers, weekly deals, editorial collections, and interactive shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
